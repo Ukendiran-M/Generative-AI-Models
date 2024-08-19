@@ -1,2 +1,2 @@
-# Mini-Project-Models-Intern-
-Collections of mini projects.
+# Mini-Project-Models
+Collections of mini projects,that I developed for skill developing purposes
